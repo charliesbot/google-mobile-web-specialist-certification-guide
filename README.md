@@ -31,7 +31,7 @@ Users expect responsive and visually engaging websites regardless of the device.
 - Touch and mouse events that contain large hit targets on the front end and work regardless of platform
 
 #### Resources
-- [ ] [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
+- [x] [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
 - [ ] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [ ] [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
