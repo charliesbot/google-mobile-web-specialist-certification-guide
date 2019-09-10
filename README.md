@@ -33,7 +33,7 @@ Users expect responsive and visually engaging websites regardless of the device.
 #### Resources
 - [x] [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
 - [x] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [ ] [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+- [x] [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [ ] [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 - [ ] [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882)
 - [ ] [Supporting both TouchEvent and MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Supporting_both_TouchEvent_and_MouseEvent)
