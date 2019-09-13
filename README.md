@@ -37,7 +37,7 @@ Users expect responsive and visually engaging websites regardless of the device.
 - [x] [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 - [x] [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882)
 - [x] [Supporting both TouchEvent and MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Supporting_both_TouchEvent_and_MouseEvent)
-- [ ] [Touch events](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
+- [x] [Touch events](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
 
 
 ### 2) Front End Networking
