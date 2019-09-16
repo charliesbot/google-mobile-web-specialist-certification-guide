@@ -53,7 +53,7 @@ requests, depending on the server’s response headers
 - Diagnosing network issues using debugging and development tools
 
 #### Resources
-- [ ] [Introduction to fetch()](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
+- [x] [Introduction to fetch()](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
 - [ ] [Using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - [ ] [David Walsh's blog on fetch](https://davidwalsh.name/fetch)
 - [ ] [Jake Archibald's blog on fetch](https://jakearchibald.com/2015/thats-so-fetch/)
