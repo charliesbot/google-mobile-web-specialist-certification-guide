@@ -55,10 +55,10 @@ requests, depending on the server’s response headers
 #### Resources
 - [x] [Introduction to fetch()](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
 - [x] [Using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-- [ ] [David Walsh's blog on fetch](https://davidwalsh.name/fetch)
-- [ ] [Jake Archibald's blog on fetch](https://jakearchibald.com/2015/thats-so-fetch/)
-- [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
-- [ ] [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+- [x] [David Walsh's blog on fetch](https://davidwalsh.name/fetch)
+- [x] [Jake Archibald's blog on fetch](https://jakearchibald.com/2015/thats-so-fetch/)
+- [x] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
+- [x] [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 
 
 ### 3) Accessibility
