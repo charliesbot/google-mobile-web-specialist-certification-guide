@@ -79,8 +79,8 @@ Web pages and applications should be accessible to all users, including those wi
 - [x] [Mobile Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Mobile)
 - [x] [Using tabindex](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex)
 - [x] [Focus](https://developers.google.com/web/fundamentals/accessibility/focus/)
-- [ ] [Skip Navigation Links](http://webaim.org/techniques/skipnav/)
-- [ ] [ARIA](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/)
+- [x] [Skip Navigation Links](http://webaim.org/techniques/skipnav/)
+- [x] [ARIA](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/)
 
 
 ### 4) Progressive Web Apps
