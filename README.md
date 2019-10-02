@@ -93,9 +93,9 @@ Users expect native applications to be available offline and provide a feature-r
 #### Resources
 - [x] [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 - [x] [Progressive Web Apps Training](https://developers.google.com/web/ilt/pwa/)
-- [ ] [Web Fundamentals - The App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell)
-- [ ] [Your First Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
-- [ ] [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+- [x] [Web Fundamentals - The App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell)
+- [x] [Your First Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
+- [x] [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 
 
 ### 5) Performance Optimization and Caching
